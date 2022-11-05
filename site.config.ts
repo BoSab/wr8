@@ -2,26 +2,26 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7167d2cf133a4875b7e23caf545ee402',
+  rootNotionPageId: '3ce76a8b14804423904c478ddf6fb385',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'wr8 Demo',
-  domain: 'demo.wr8.in',
-  author: 'Verfasor',
+  name: 'borisha',
+  domain: 'borisha.art',
+  author: 'Boriša',
   seotitle: 'Demo Site Created with wr8',
 
   // open graph metadata (optional)
-  description: 'This is a demo website created with wr8.',
+  description: null,
 
   // social usernames (optional)
-  twitter: 'verfasor',
-  github: 'verfasor',
-  linkedin: 'verfasor',
-  // newsletter: '#', // optional newsletter URL
+  twitter: null,
+  github: null,
+  linkedin: null,
+  // newsletter:'#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
