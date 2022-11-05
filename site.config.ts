@@ -12,7 +12,7 @@ export default siteConfig({
   name: 'borisha',
   domain: 'borisha.art',
   author: 'Boriša',
-  seotitle: 'Demo Site Created with wr8',
+  seotitle: 'Boriša',
 
   // open graph metadata (optional)
   description: null,
