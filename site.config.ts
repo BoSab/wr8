@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'borisha',
   domain: 'borisha.art',
-  author: null,
+  author: 'Verfasor',
   seotitle: 'Boriša',
 
   // open graph metadata (optional)
