@@ -57,16 +57,8 @@ export default siteConfig({
       pageId: '3ce76a8b14804423904c478ddf6fb385'
     }, 
     {
-      title: 'Blog',
+      title: 'Music',
       pageId: 'a1936146dc294b4c9d2f84926f3f5a5e'
-    },    
-    {
-      title: 'About',
-      pageId: 'ee9f205594ff4a87aa6b3e0a62004ae8'
-    },
-    {
-      title: 'Contact',
-      pageId: '04ba48403326432db644bbd3667b7bbd'
     }
   ]
 })
